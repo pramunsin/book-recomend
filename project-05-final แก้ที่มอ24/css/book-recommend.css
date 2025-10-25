@@ -1,0 +1,150 @@
+div {
+   /* border: 2px solid rgb(229, 38, 130); */
+
+}
+
+.custom-navbar {
+  background-color: #DCCCB5;
+  /* ใส่สีnav barที่ต้องการ */
+}
+
+.text_book {
+font-family: 'Viga', sans-serif;
+font-weight: 400;
+color: #342E27;
+}
+
+.background-color1 {
+  background-color: #342E27;
+}
+
+.background-color2 {
+  background-color: #FFFFFF;
+}
+
+.background-color3 {
+  background-color: #219C54;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+
+
+
+
+}
+
+.text_green {
+  color: #689F38;
+}
+
+
+.font1 {
+  font-family: 'Chonburi', cursive;
+  font-weight: 500;
+  /* SemiBold */
+  color: #ffffff;
+  font-size: 80px;
+  max-width: 100%;
+}
+
+.font2 {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 400;
+  color: #000000;
+}
+
+.font3 {
+  font-family: 'Mitr', sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.font4 {
+  font-family: 'Sarabun', sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+}
+
+.font5 {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 400;
+}
+
+.font5_1 {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 500;
+  color: #198044;
+}
+
+.font6 {
+  font-family: "Noto Sans Thai Looped", sans-serif;
+  font-weight: 500;
+}
+
+
+.font7 {
+  font-family: "Pattaya", sans-serif;
+  font-weight: 100;
+  color: #ffffff;
+}
+
+/* fontของเนื้อหาแรก */
+.font8 {
+  font-family: "Noto Sans Thai Looped", sans-serif; 
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.font9 {
+  font-family: 'Mitr', sans-serif;
+  font-weight: 400;
+  color: #000000;
+}
+
+.font10 {
+  font-family: "Noto Sans Thai Looped", sans-serif; 
+  font-weight: 300;
+  color: #EBCC52;
+  font-size: 22px;
+}
+
+.font-nav {
+  font-family: 'Mitr', sans-serif;
+  font-weight: 400;
+}
+
+.box {
+
+  border-radius: 15px;
+  /* มุมโค้งเล็กน้อย ดูนุ่มขึ้น */
+  background-color: rgba(6, 1, 1, 0.05);
+  /* สีพื้นหลังขาวบาง ๆ โปร่งใส */
+  backdrop-filter: blur(10px);
+  /* เพิ่มเอฟเฟกต์เบลอเล็กน้อย (เฉพาะเบราว์เซอร์ใหม่ ๆ) */
+}
+
+.hollywood-header {
+  position: relative;
+  width: 100%;
+  padding-top: 40%;
+  /* ปรับตามอัตราส่วนภาพ (สูง/กว้าง * 100%) */
+  background-image: url("../images/ส่วนหัว.png");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: contain;
+  /* ไม่ตัดภาพ */
+}
+
+
+
+.box-white {
+  background-color: rgb(255, 255, 255);
+}
+
+.responsive-h1 {
+  white-space: nowrap;
+  /* ป้องกันข้อความตัดบรรทัด */
+  max-width: 100%;
+  /* ไม่เกินความกว้างคอลัมน์ */
+  font-size: 3rem;
+  /* ขนาดเริ่มต้น */
+}
