@@ -68,10 +68,17 @@ color: #342E27;
   font-weight: 400;
 }
 
+.font5_1 {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 500;
+  color: #198044;
+}
+
 .font6 {
   font-family: "Noto Sans Thai Looped", sans-serif;
   font-weight: 500;
 }
+
 
 .font7 {
   font-family: "Pattaya", sans-serif;
